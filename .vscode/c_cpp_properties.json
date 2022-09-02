@@ -1,0 +1,16 @@
+{
+    "env": {
+      "myDefaultIncludePath": [
+      "${workspaceFolder}"
+      
+    ]
+    },
+    "configurations": [{
+        "name": "Mac",
+        "includePath": ["/opt/homebrew/Cellar/openssl@1.1/1.1.1o/include"
+       
+
+    ]
+    }],
+    "version": 4
+}

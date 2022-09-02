@@ -1,0 +1,12 @@
+{
+    "cmake.configureOnOpen": false,
+    "files.associations": {
+        "exception": "cpp",
+        "__mutex_base": "cpp",
+        "condition_variable": "cpp",
+        "future": "cpp",
+        "__threading_support": "cpp",
+        "*.ipp": "cpp"
+    }
+    
+}
